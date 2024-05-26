@@ -2,10 +2,12 @@
 config.toml
 
 # RVC-model
-/model/
+/model/*
+!/model/.gitkeep
 
 # Output
-/output/
+/output/*
+!/output/.gitkeep
 
 # Python venv
 /.venv/
