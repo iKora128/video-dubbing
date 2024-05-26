@@ -1,0 +1,14 @@
+# Config file
+config.toml
+
+# RVC-model
+/model/
+
+# Output
+/output/
+
+# Python venv
+/.venv/
+
+# VSCode settings
+/.vscode/
